@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603111575 source:c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial_prog_1_guillermo_lincoman\aplicardescuento\main.c
+	<stdio.h>
+	<stdlib.h>
+
